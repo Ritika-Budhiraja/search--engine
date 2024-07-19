@@ -2,7 +2,7 @@
 
 This project was made using ReactJS
 
-here is the live version: (https://iamrishan.github.io/seekrrr/)
+here is the live version: (https://search-engine-ritika-budhirajas-projects.vercel.app/)
 
 To run this on your localhost you need to install [Node.JS] first.
 (https://nodejs.org/en/)
